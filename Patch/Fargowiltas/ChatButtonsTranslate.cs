@@ -47,6 +47,7 @@ namespace FargoMemeChinese.Patch.Fargowiltas
             RemoveNotNull(_methods[4], SquirrelButton);
             _methods = null;
         }
+
         private static void AbomButton(Abominationn orig, ref string button, ref string button2)
         {
             button = Language.GetTextValue("LegacyInterface.28");
