@@ -3,10 +3,9 @@ using FargowiltasSouls.Buffs.Masomode;
 using MonoMod.RuntimeDetour.HookGen;
 using System.Reflection;
 using Terraria;
-using Terraria.Localization;
 using Terraria.ModLoader;
 
-namespace FargoMemeChinese.FargowiltasSouls
+namespace FargoMemeChinese.Patch.FargowiltasSouls
 {
     [JITWhenModsEnabled("FargowiltasSouls")]
     public static class NurseCantHealTranslate

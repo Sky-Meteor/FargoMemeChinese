@@ -1,12 +1,7 @@
-﻿using Terraria;
-using Terraria.ID;
-using Terraria.Localization;
-using Terraria.ModLoader;
-using Fargowiltas.NPCs;
-using Microsoft.Xna.Framework;
-using Terraria.Audio;
+﻿using Microsoft.Xna.Framework;
+using Terraria;
 
-namespace FargoChinese.Patch
+namespace FargoMemeChinese.Patch
 {
     public static class ChatMessagesTranslate
     {
@@ -801,7 +796,7 @@ namespace FargoChinese.Patch
             #region FargowiltasSouls
             #endregion
             else
-                        orig.Invoke(text, force, c, WidthLimit);
+                orig.Invoke(text, force, c, WidthLimit);
         }
         public static void Unload()
         {

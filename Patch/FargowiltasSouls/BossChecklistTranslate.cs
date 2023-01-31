@@ -1,13 +1,8 @@
 ﻿using FargowiltasSouls.Items.Summons;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Terraria.Localization;
 using Terraria.ModLoader;
 
-namespace FargoMemeChinese.FargowiltasSouls
+namespace FargoMemeChinese.Patch.FargowiltasSouls
 {
     [JITWhenModsEnabled("FargowiltasSouls")]
     public static class BossChecklistTranslate

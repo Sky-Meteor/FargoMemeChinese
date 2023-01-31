@@ -4,5 +4,6 @@ namespace FargoMemeChinese
 {
     public class FargoMemeChinese : Mod
     {
+
     }
 }

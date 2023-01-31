@@ -1,17 +1,17 @@
-﻿using Fargowiltas.UI;
-using Fargowiltas;
+﻿using Fargowiltas;
+using Fargowiltas.Items.Misc;
+using Fargowiltas.UI;
+using Mono.Cecil.Cil;
+using MonoMod.Cil;
 using MonoMod.RuntimeDetour;
 using System;
 using System.Collections.Generic;
 using System.Reflection;
 using Terraria;
-using Terraria.ModLoader;
-using MonoMod.Cil;
-using Mono.Cecil.Cil;
-using Fargowiltas.Items.Misc;
 using Terraria.ID;
+using Terraria.ModLoader;
 
-namespace FargoMemeChinese.Fargowiltas
+namespace FargoMemeChinese.Patch.Fargowiltas
 {
     public static class StatSheetTranslate
     {
