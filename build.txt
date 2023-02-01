@@ -1,5 +1,5 @@
 displayName = Fargo梗体汉化
-author = Furgo_ & FallingLeaf落叶（B站同名）
+author = Furgo，FallingLeaf落叶与热心群友
 version = 0.1
 modReferences = Fargowiltas
 weakReferences = FargowiltasSouls
