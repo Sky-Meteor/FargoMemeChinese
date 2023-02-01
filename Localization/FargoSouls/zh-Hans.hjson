@@ -194,7 +194,7 @@ Mods: {
 		}
 
 		NPCName:{
-			AbomBoss: 憎恶
+			AbomBoss: 永恒群冠
 			DeviBoss: 戴薇安
 			MutantBoss: 突变体
 			MutantIllusion: 突变体
@@ -265,16 +265,16 @@ Mods: {
 			
 			// == BossDebuffs ==
 			
-			AbomFang: 憎恶毒牙
-			AbomPresence: 憎恶驾到
+			AbomFang: 永恒群冠毒牙
+			AbomPresence: 永恒群冠驾到
 			DeviPresence: 戴薇安驾到
 			Grabbed: 抓住你了！
 			MutantFang: 突变毒牙
 			MutantPresence: 突变驾到
 
 			// == Masomode ==
-			AbomCooldown: 憎恶冷却
-			AbomRebirth: 憎恶重生
+			AbomCooldown: 永恒群冠冷却
+			AbomRebirth: 永恒群冠重生
 			Anticoagulation: 凝血失效
 			Antisocial: 社恐
 			Atrophied: 萎缩
@@ -353,7 +353,7 @@ Mods: {
 
 			// == Pets ==
 			AccursedSarcophagusBuff: 被诅咒的石棺
-			BabyAbomBuff: 憎恶宝宝
+			BabyAbomBuff: 永恒群冠宝宝
 			BabySilhouetteBuff: 黑雾宝宝
 			BiteSizeBaronBuff: 小小公爵
 			ChibiDeviBuff: 小不点德薇
@@ -541,7 +541,7 @@ Mods: {
 		}
 
 		ProjectileName: {
-			AbomScytheFriendly: 憎恶镰刀
+			AbomScytheFriendly: 永恒群冠镰刀
 			BeeDash: 冲刺
 			BetsyDash: 冲刺
 			CirnoBomb: 琪露诺炸弹
@@ -561,7 +561,7 @@ Mods: {
 			LightningVortexHostile: 星旋旋涡
 			LihzahrdSpikyBallFriendly: 尖球
 			PhantasmalSphere: 幻影球
-			SpectralAbominationn: 幽灵憎恶
+			SpectralAbominationn: 幽灵永恒群冠
 			StyxArmorScythe: 冥河镰刀
 			StyxArmorScythe2: 冥河镰刀
 			StyxGazerArmor: 冥河凝视
@@ -569,31 +569,31 @@ Mods: {
 
 			// == AbomBoss ==
 			AbomBlast: 幻象爆炸
-			AbomBoss: 憎恶
-			AbomDeathray: 憎恶死亡射线
+			AbomBoss: 永恒群冠
+			AbomDeathray: 永恒群冠死亡射线
 			AbomDeathrayMark: 死亡射线
-			AbomDeathraySmall: 憎恶死亡射线
+			AbomDeathraySmall: 永恒群冠死亡射线
 			AbomDeathraySmall2: 死亡射线
-			AbomDeathScythe: 憎恶镰刀
+			AbomDeathScythe: 永恒群冠镰刀
 			AbomFlocko: 超级雪花怪
 			AbomFlocko2: 超级雪花怪
 			AbomFlocko3: 超级雪花怪
 			AbomFrostShard: 寒霜碎块
 			AbomFrostWave: 寒霜波
 			AbomLaser: 激光
-			AbomReticle: 憎恶瞄准点
-			AbomRitual: 憎恶结界
-			AbomRitual2: 憎恶结界
-			AbomRitualMaso: 憎恶结界
+			AbomReticle: 永恒群冠瞄准点
+			AbomRitual: 永恒群冠结界
+			AbomRitual2: 永恒群冠结界
+			AbomRitualMaso: 永恒群冠结界
 			AbomRocket: 火箭
-			AbomScytheFlaming: 憎恶镰刀
-			AbomScytheSpin: 憎恶镰刀
-			AbomScytheSplit: 憎恶镰刀
-			AbomSickle: 憎恶镰刀
-			AbomSickle2: 憎恶镰刀
-			AbomSickle3: 憎恶镰刀
-			AbomSickleSplit1: 憎恶镰刀
-			AbomSickleSplit2: 憎恶镰刀
+			AbomScytheFlaming: 永恒群冠镰刀
+			AbomScytheSpin: 永恒群冠镰刀
+			AbomScytheSplit: 永恒群冠镰刀
+			AbomSickle: 永恒群冠镰刀
+			AbomSickle2: 永恒群冠镰刀
+			AbomSickle3: 永恒群冠镰刀
+			AbomSickleSplit1: 永恒群冠镰刀
+			AbomSickleSplit2: 永恒群冠镰刀
 			AbomStyxGazer: 冥河凝视
 			AbomSword: 冥河凝视之刃
 			AbomSwordHandle: 冥河凝视之刃
@@ -995,9 +995,9 @@ Mods: {
 			WOFReticle: 血肉墙瞄准点
 
 			// == Minions ==
-			AbomMinion: 憎恶
-			AbomMinionScythe: 憎恶镰刀
-			AbomMinionSickle: 憎恶镰刀
+			AbomMinion: 永恒群冠
+			AbomMinionScythe: 永恒群冠镰刀
+			AbomMinionSickle: 永恒群冠镰刀
 			BigBrainIllusion: 克苏鲁大脑
 			BigBrainProj: 克苏鲁大脑
 			BrainMinion: 克苏鲁之脑
@@ -1128,7 +1128,7 @@ Mods: {
 
 			// == Pets ==
 			AccursedSarcophagus: 被诅咒的石棺
-			BabyAbom: 憎恶宝宝
+			BabyAbom: 永恒群冠宝宝
 			BabySilhouette: 黑雾宝宝
 			BiteSizeBaron: 小小公爵
 			ChibiDevi: 小不点德薇
@@ -1566,10 +1566,10 @@ Mods: {
 			MasoTrueEyeConfig: 克苏鲁真眼召唤物
 
 			CyclonicHeader: "{$Mods.FargowiltasSouls.ItemName.AbominableWand}"
-			MasoFishronConfig: 幽灵憎恶
+			MasoFishronConfig: 幽灵永恒群冠
 
 			MutantArmorHeader: 真·突变体套装
-			MasoAbomConfig: 幽灵憎恶
+			MasoAbomConfig: 幽灵永恒群冠
 			MasoRingConfig: 幻影球召唤物
 			MasoReviveDeathrayConfig: 复活死亡射线
 
@@ -2097,7 +2097,7 @@ Mods: {
 
 			// == Materials ==
 
-			AbomEnergy: 憎恶能量
+			AbomEnergy: 永恒群冠能量
 			BrokenBlade: 破损的斧头
 			BrokenHilt: 破损的刀柄
 			DeviatingEnergy: 戴薇安能量
@@ -2139,8 +2139,8 @@ Mods: {
 
 			// === Boss Summoning ===
 
-			AbominationnVoodooDoll: 憎恶巫毒娃娃
-			AbomsCurse: 憎恶诅咒
+			AbominationnVoodooDoll: 永恒群冠巫毒娃娃
+			AbomsCurse: 永恒群冠诅咒
 			ChampionySigil: 英灵证章
 			DevisCurse: 戴薇安的诅咒
 			FragilePixieLamp: 易碎的妖精灯
@@ -2156,7 +2156,7 @@ Mods: {
 			ScremPainting: 尖叫猫猫
 			TophatSquirrelBanner: 高顶礼帽松鼠旗
 			TwentyTwoPainting: 22号画作
-			AbomMusicBox: 音乐盒（憎恶）
+			AbomMusicBox: 音乐盒（永恒群冠）
 			ChampionMusicBox: 音乐盒（英灵）
 			DeviMusicBox: 音乐盒（戴薇安）
 			MutantMusicBox: 音乐盒（突变体）
@@ -2165,7 +2165,7 @@ Mods: {
 			
 			// === Trophies ===
 
-			AbomTrophy: 憎恶纪念章
+			AbomTrophy: 永恒群冠纪念章
 			DeviTrophy: 戴薇安纪念章
 			EridanusTrophy: 宇宙英灵纪念章
 			LifeChallengerTrophy: 躺飞纪念章
@@ -2174,7 +2174,7 @@ Mods: {
 
 			// === Relics ===
 
-			AbomRelic: 憎恶圣物
+			AbomRelic: 永恒群冠圣物
 			DeviRelic: 戴薇安圣物
 			EarthChampionRelic: 大地英灵圣物
 			EridanusRelic: 宇宙英灵圣物
@@ -2410,7 +2410,7 @@ Mods: {
 
 			// === Masomode ===
 
-			AbominableWand: 憎恶手杖
+			AbominableWand: 永恒群冠手杖
 			AeolusBoots: 风神之靴
 			AgitatingLens: 躁动晶状体
 			BetsysHeart: 双足翼龙之心
@@ -3020,9 +3020,9 @@ Mods: {
 
 			AbominableWand:
 				'''
-				免疫憎恶毒牙和憎恶驾到减益
+				免疫永恒群冠毒牙和永恒群冠驾到减益
 				增加闪烁崇心的擦弹伤害加成，红心发射冷却减半
-				暴击时偶尔会召唤幽灵憎恶
+				暴击时偶尔会召唤幽灵永恒群冠
 				装备冥河套装时，闪烁崇心擦弹计满也会增加冥河能量
 				受到致命伤害时，保留1点生命值并避免死亡
 				你再次恢复到满生命值后，免死效果才能再被激活
@@ -3262,7 +3262,7 @@ Mods: {
 				闪烁崇心的擦弹伤害加成上限增加25%
 				将闪烁崇心的心攻击加强为爱之射线
 				增加闪烁崇心的擦弹伤害加成
-				提升幽灵憎恶的出现频率和攻击力
+				提升幽灵永恒群冠的出现频率和攻击力
 				按下“炸弹”键时施放一圈幻影眼球，摧毁大多数敌对弹幕
 				突变炸弹有60秒的冷却时间
 				“有点可疑”
@@ -3598,7 +3598,7 @@ Mods: {
 
 			AbominationnVoodooDoll:
 				'''
-				召唤憎恶到你的城镇
+				召唤永恒群冠到你的城镇
 				“你可真是个坏东西”
 				'''
 			AbomsCurse:
@@ -3689,7 +3689,7 @@ Mods: {
 			'''
 			BabyScythe:
 			'''
-			召唤憎恶宝宝
+			召唤永恒群冠宝宝
 			“别担心，它很迟钝”
 			'''
 			ChibiHat:
