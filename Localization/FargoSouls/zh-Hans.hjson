@@ -161,7 +161,7 @@ Mods: {
 			CosmosChampion: 这位高贵的战士曾经周游星辰，寻找有价值的对手。遇到某个奇异的三人组合后，它就在他们附近安顿下来了。
 			
 			DeviBoss: 使用由邪恶制成的活的斧头，施展光明和爱的咒语。她对死亡之事一定十分怠慢，因为她从不为保护城镇而拼命战斗。
-			AbomBoss: 他的剑刃撕裂了灵魂本身。他精于控制一切的超自然现象，但出于对突变体的尊重，他不会使用天界级别的攻击。
+			AbomBoss: 他的剑刃撕裂了灵魂本身。他精于控制一切的超自然现象，但出于对凸定体的尊重，他不会使用天界级别的攻击。
 			MutantBoss: 永恒的守护者。终极力量的化身。支配一切，主宰着战斗的方方面面。也许它来自那个维度裂缝之外的世界……
 		}
 
@@ -174,8 +174,8 @@ Mods: {
 			AbomBossDespawn: 憎恶找不到有价值的对手……
 			AbomBossKilledAll: 憎恶摧毁了所有人。
 			
-			MutantBossDespawn: 突变体再次将自己的力量封印起来……
-			MutantBossKilledAll: 突变体肃清了他周围的每一个生灵。
+			MutantBossDespawn: 凸定体再次将自己的力量封印起来……
+			MutantBossKilledAll: 凸定体肃清了他周围的每一个生灵。
 
 			TimberChampionDespawn: 森林英灵回到了它的松鼠聚落中……
 			TerraChampionDespawn: 泰拉英灵消失在洞穴深处……
@@ -196,8 +196,8 @@ Mods: {
 		NPCName:{
 			AbomBoss: 永恒群冠
 			DeviBoss: 戴薇安
-			MutantBoss: 突变体
-			MutantIllusion: 突变体
+			MutantBoss: 凸定体
+			MutantIllusion: 凸定体
 			GelatinSubject: 圣凝史莱姆
 			RoyalSubject: 皇家工蜂
 			TophatSquirrelCritter: 高顶礼帽松鼠
@@ -238,8 +238,8 @@ Mods: {
 		MapObject: {
 			FMMBanner: 旗帜
 			LifeRevitalizerPlaced: 生命复苏站
-			MutantStatue: 突变体雕像
-			MutantStatueGift: 突变体雕像
+			MutantStatue: 凸定体雕像
+			MutantStatueGift: 凸定体雕像
 			SquidwardDoorClosed: 章鱼哥的大门
 			SquidwardDoorOpen: 章鱼哥的大门
 			AbomMusicBoxSheet: 音乐盒
@@ -257,7 +257,7 @@ Mods: {
 			BetsyDash: 冲刺
 			HellFire: 狱火
 			MagicalCleanseCD: 魔法净化冷却
-			MutantRebirth: 突变重生
+			MutantRebirth: 凸定重生
 			Supercharged: 超级充能
 			TwinsInstall: 双子负载
 			TribalCharmClickBuff: 部落挂坠
@@ -269,8 +269,8 @@ Mods: {
 			AbomPresence: 永恒群冠驾到
 			DeviPresence: 戴薇安驾到
 			Grabbed: 抓住你了！
-			MutantFang: 突变毒牙
-			MutantPresence: 突变驾到
+			MutantFang: 凸定毒牙
+			MutantPresence: 凸定驾到
 
 			// == Masomode ==
 			AbomCooldown: 永恒群冠冷却
@@ -308,7 +308,7 @@ Mods: {
 			LowGround: 下陷
 			MarkedforDeath: 死亡标记
 			Midas: 迈达斯
-			MutantNibble: 突变啃啄
+			MutantNibble: 凸定啃啄
 			NanoInjection: 纳米灌注
 			Neurotoxin: 神经毒素
 			NullificationCurse: 无效诅咒
@@ -339,7 +339,7 @@ Mods: {
 			EaterMinion: 世界吞噬者
 			JungleMimicSummonBuff: 丛林宝箱怪
 			LunarCultist: 拜月教徒
-			MutantPower: 突变之力
+			MutantPower: 凸定之力
 			PlanterasChild: 世纪之花的孩子
 			Probes: 探测器
 			PungentEyeball: 尖刻眼球
@@ -357,7 +357,7 @@ Mods: {
 			BabySilhouetteBuff: 黑雾宝宝
 			BiteSizeBaronBuff: 小小公爵
 			ChibiDeviBuff: 小不点德薇
-			MutantSpawnBuff: 突变体的卵
+			MutantSpawnBuff: 凸定体的卵
 			SeekerOfTreasuresBuff: 宝藏探索者
 
 			// == Souls ==
@@ -486,7 +486,7 @@ Mods: {
 			EaterMinion: '''迷你世界吞噬者将为你而战'''
 			JungleMimicSummonBuff: '''丛林宝箱怪将为你而战'''
 			LunarCultist: '''拜月教徒将会保护你'''
-			MutantPower: '''突变之力与你同在'''
+			MutantPower: '''凸定之力与你同在'''
 			PlanterasChild: '''世纪之花的孩子将会保护你'''
 			Probes: '''探测器将会保护你'''
 			PungentEyeball: '''尖刻眼球将会保护你'''
@@ -503,7 +503,7 @@ Mods: {
 			BabySilhouetteBuff: '''见不到一点亮光，直到它成长完全'''
 			BiteSizeBaronBuff: '''不包括EX阶段'''
 			ChibiDeviBuff: '''她对“你”很感兴趣'''
-			MutantSpawnBuff: '''突变体的卵'''
+			MutantSpawnBuff: '''凸定体的卵'''
 			SeekerOfTreasuresBuff: '''再给它几千年时间来长大'''
 
 			// == Souls ==
@@ -1068,10 +1068,10 @@ Mods: {
 			TrueEyeS: 克苏鲁真眼
 
 			// == MutantBoss ==
-			BossRush: 突变结界
+			BossRush: 凸定结界
 			MutantBomb: 幻象爆炸
 			MutantBombSmall: 幻象爆炸
-			MutantBoss: 突变体
+			MutantBoss: 凸定体
 			MutantCrystalLeaf: 叶绿水晶
 			MutantDeathray1: 幻影死亡射线
 			MutantDeathray2: 幻影死亡射线
@@ -1091,21 +1091,21 @@ Mods: {
 			MutantGiantDeathray2: 幻影死亡射线
 			MutantGlowything: 魔眼激光预警
 			MutantGuardian: 机械骷髅王
-			MutantHeal: 突变治疗
+			MutantHeal: 凸定治疗
 			MutantMark1: 幻影球
 			MutantMark2: 叶绿水晶
 			MutantNuke: 猪鲨核弹
 			MutantPillar: 天界柱
-			MutantReticle: 突变瞄准点
-			MutantReticle2: 突变瞄准点
+			MutantReticle: 凸定瞄准点
+			MutantReticle2: 凸定瞄准点
 			MutantRetirang: 激光回旋镖
-			MutantRitual: 突变结界
-			MutantRitual2: 突变结界
-			MutantRitual3: 突变结界
-			MutantRitual4: 突变结界
-			MutantRitual5: 突变结界
-			MutantScythe1: 突变镰刀
-			MutantScythe2: 突变镰刀
+			MutantRitual: 凸定结界
+			MutantRitual2: 凸定结界
+			MutantRitual3: 凸定结界
+			MutantRitual4: 凸定结界
+			MutantRitual5: 凸定结界
+			MutantScythe1: 凸定镰刀
+			MutantScythe2: 凸定镰刀
 			MutantSlimeBall: 史莱姆雨
 			MutantSlimeBall2: 史莱姆雨
 			MutantSlimeRain: 史莱姆雨
@@ -1120,9 +1120,9 @@ Mods: {
 			MutantSphereSmall: 幻影球
 			MutantSword: 幻影球
 			MutantTrueEyeDeathray: 幻影死亡射线
-			MutantTrueEyeL: 突变真眼
-			MutantTrueEyeR: 突变真眼
-			MutantTrueEyeS: 突变真眼
+			MutantTrueEyeL: 凸定真眼
+			MutantTrueEyeR: 凸定真眼
+			MutantTrueEyeS: 凸定真眼
 			MutantTrueEyeSphere: 幻影球
 			MutantTyphoon: 利刃台风
 
@@ -1132,7 +1132,7 @@ Mods: {
 			BabySilhouette: 黑雾宝宝
 			BiteSizeBaron: 小小公爵
 			ChibiDevi: 小不点德薇
-			MutantSpawn: 突变体的卵
+			MutantSpawn: 凸定体的卵
 			SeekerOfTreasures: 宝藏探索者
 
 			// == Souls ==
@@ -1200,7 +1200,7 @@ Mods: {
 			MutantsCurse: "{$Mods.FargowiltasSouls.NPCName.MutantBoss}{$Mods.FargowiltasSouls.Message.HasAwoken}"
 			SpawnFishronEX: "猪龙鱼公爵EX{$Mods.FargowiltasSouls.Message.HasAwoken}"
 			
-			AbominationnVoodooDoll: "突变体的兄弟死了，突变体被激怒了！"
+			AbominationnVoodooDoll: "凸定体的兄弟死了，凸定体被激怒了！"
 			AbominationnVoodooDollFail: "娃娃传送回了你的手中。也许不应该在地下使用它..."
 			
 			SigilOfChampions: {
@@ -1216,8 +1216,8 @@ Mods: {
 				Nothing: 八方默然，万籁俱寂……看来没有英灵回应你的召唤……
 			}
 
-			MutantsFuryOn: 突变体被激怒了！
-			MutantsFuryOff: 突变体冷静下来了。
+			MutantsFuryOn: 凸定体被激怒了！
+			MutantsFuryOff: 凸定体冷静下来了。
 
 			PiranhaPlantVoodooDollOn: 苦难开始了……
 			PiranhaPlantVoodooDollOff: 苦难结束了……
@@ -1239,7 +1239,7 @@ Mods: {
 				BloodMoonCancel: 血月改变了主意，溜了溜了……
 			}
 
-			MutantSkipP1: 突变体不想再伪装下去了……
+			MutantSkipP1: 凸定体不想再伪装下去了……
 
 			MutantSpawnMutantBoss: "{$Mods.FargowiltasSouls.Message.MutantsCurse}"
 			MutantSpawnNotSafe: 你以为你安全了？
@@ -1568,7 +1568,7 @@ Mods: {
 			CyclonicHeader: "{$Mods.FargowiltasSouls.ItemName.AbominableWand}"
 			MasoFishronConfig: 幽灵永恒群冠
 
-			MutantArmorHeader: 真·突变体套装
+			MutantArmorHeader: 真·凸定体套装
 			MasoAbomConfig: 幽灵永恒群冠
 			MasoRingConfig: 幻影球召唤物
 			MasoReviveDeathrayConfig: 复活死亡射线
@@ -2092,7 +2092,7 @@ Mods: {
 		ItemName: {
 			
 			ForgorGift: 失忆之礼
-			Masochist: 突变体的礼物
+			Masochist: 凸定体的礼物
 			MasochistReal: 被遗忘的礼物
 
 			// == Materials ==
@@ -2117,9 +2117,9 @@ Mods: {
 			GaiaGreaves: 盖亚护胫
 			GaiaHelmet: 盖亚头盔
 			GaiaPlate: 盖亚护板
-			MutantBody: 真·突变之躯
-			MutantMask: 真·突变之颅
-			MutantPants: 真·突变之靴
+			MutantBody: 真·凸定之躯
+			MutantMask: 真·凸定之颅
+			MutantPants: 真·凸定之靴
 			NekomiHood: 猫猫睡衣兜帽
 			NekomiHoodie: 猫猫睡衣连帽衫
 			NekomiLeggings: 猫猫睡衣紧身裤
@@ -2130,9 +2130,9 @@ Mods: {
 			// == Consumables ==
 
 			DeerSinew: 鹿筋
-			MutantsCreditCard: 突变体的信用卡
-			MutantsDiscountCard: 突变体的优惠卡
-			MutantsPact: 突变体契约
+			MutantsCreditCard: 凸定体的信用卡
+			MutantsDiscountCard: 凸定体的优惠卡
+			MutantsPact: 凸定体契约
 			OrdinaryCarrot: 普通的胡萝卜
 			RabiesShot: 狂犬疫苗
 			RabiesVaccine: 狂犬病疫苗
@@ -2144,22 +2144,22 @@ Mods: {
 			ChampionySigil: 英灵证章
 			DevisCurse: 戴薇安的诅咒
 			FragilePixieLamp: 易碎的妖精灯
-			MutantsCurse: 突变体的诅咒
+			MutantsCurse: 凸定体的诅咒
 			SigilOfChampions: 唤灵魔符
 			SquirrelCoatofArms: 松鼠手臂的皮毛
 
 			// == Placables ==
 
 			LifeRevitalizer: 生命复苏站
-			MutantStatue: 突变体雕像
-			MutantStatueGift: 拿着礼物的突变体雕像
+			MutantStatue: 凸定体雕像
+			MutantStatueGift: 拿着礼物的凸定体雕像
 			ScremPainting: 尖叫猫猫
 			TophatSquirrelBanner: 高顶礼帽松鼠旗
 			TwentyTwoPainting: 22号画作
 			AbomMusicBox: 音乐盒（永恒群冠）
 			ChampionMusicBox: 音乐盒（英灵）
 			DeviMusicBox: 音乐盒（戴薇安）
-			MutantMusicBox: 音乐盒（突变体）
+			MutantMusicBox: 音乐盒（凸定体）
 			RePrologueMusicBox: 音乐盒（？？？）
 			StoriaMusicBox: 音乐盒（？？？）
 			
@@ -2169,7 +2169,7 @@ Mods: {
 			DeviTrophy: 戴薇安纪念章
 			EridanusTrophy: 宇宙英灵纪念章
 			LifeChallengerTrophy: 躺飞纪念章
-			MutantTrophy: 突变体纪念章
+			MutantTrophy: 凸定体纪念章
 			TrojanSquirrelTrophy: 特洛伊松鼠纪念章
 
 			// === Relics ===
@@ -2179,7 +2179,7 @@ Mods: {
 			EarthChampionRelic: 大地英灵圣物
 			EridanusRelic: 宇宙英灵圣物
 			LifeChampionRelic: 生命英灵圣物
-			MutantRelic: 突变体圣物
+			MutantRelic: 凸定体圣物
 			NatureChampionRelic: 自然英灵圣物
 			ShadowChampionRelic: 暗影英灵圣物
 			SpiritChampionRelic: 心灵英灵圣物
@@ -2198,7 +2198,7 @@ Mods: {
 			
 			EternityAdvisor: 永恒顾问
 			GalacticReformer: 银河重构器
-			MutantsFury: 突变之狂怒
+			MutantsFury: 凸定之狂怒
 			TopHatSquirrelCaught: 高顶礼帽松鼠
 			UniversalCollapse: 宇宙坍缩
 
@@ -2434,8 +2434,8 @@ Mods: {
 			LihzahrdTreasureBox: 蜥蜴宝藏盒
 			LumpOfFlesh: 血肉团
 			MagicalBulb: 魔法球茎
-			MutantAntibodies: 突变抗体
-			MutantEye: 突变之眼
+			MutantAntibodies: 凸定抗体
+			MutantEye: 凸定之眼
 			MysticSkull: 神秘头骨
 			NecromanticBrew: 死灵密酿
 			NymphsPerfume: 宁芙的香水
@@ -2472,8 +2472,8 @@ Mods: {
 				'''
 				[c/ff0000:调 试 用 物 品]
 				左键重置原版和魂石Mod中的事件与Boss进度，包括困难模式（击败血肉墙）
-				右键允许从戴薇安处再拿一次新手礼包，重置突变体的信用卡/优惠卡、你的永恒模式饰品栏、狂犬病疫苗、鹿筋冲刺等等
-				在物品栏内对物品右键来重置突变体的一阶段跳过机制
+				右键允许从戴薇安处再拿一次新手礼包，重置凸定体的信用卡/优惠卡、你的永恒模式饰品栏、狂犬病疫苗、鹿筋冲刺等等
+				在物品栏内对物品右键来重置凸定体的一阶段跳过机制
 				我忘啦！
 				'''
 			Masochist:
@@ -2484,7 +2484,7 @@ Mods: {
 				戴薇安会给予你一个新手礼包，并提供一些基于进度的建议
 				增强玩家的基础属性
 				不能在任意Boss存活时使用
-				[i:1612][c/00ff00:推荐与Fargo突变模组的减益显示一起使用（在模组配置里打开）]
+				[i:1612][c/00ff00:推荐与Fargo凸定模组的减益显示一起使用（在模组配置里打开）]
 				[c/ff0000:不推荐与其他内容型模组及其他模组难度同时开启！！！]
 				'''
 			MasochistReal:
@@ -3196,7 +3196,7 @@ Mods: {
 			HeartoftheMasochist:
 				'''
 				免疫人形废土、霜冻、恐寒症、分泌物、枯萎武器和枯萎盔甲减益
-				免疫野性咬噬、突变啃啄、翻转、不稳定、扭曲和月之诅咒减益
+				免疫野性咬噬、凸定啃啄、翻转、不稳定、扭曲和月之诅咒减益
 				免疫潮湿、带电、海洋重击、月蛭、失效诅咒和由水造成的减益
 				攻击力和暴击率增加10%，伤害减免增加5%
 				增加100%飞行时间
@@ -3249,7 +3249,7 @@ Mods: {
 				'''
 			MutantAntibodies:
 				'''
-				免疫潮湿、野性咬噬、突变啃啄和海洋重击减益
+				免疫潮湿、野性咬噬、凸定啃啄和海洋重击减益
 				免疫大多数由水造成的减益
 				骑乘猪龙鱼坐骑时获得潮湿状态效果
 				增加20%你手持武器职业的伤害，但是降低生命恢复速度
@@ -3258,13 +3258,13 @@ Mods: {
 				'''
 			MutantEye:
 				'''
-				免疫突变毒牙减益
+				免疫凸定毒牙减益
 				闪烁崇心的擦弹伤害加成上限增加25%
 				将闪烁崇心的心攻击加强为爱之射线
 				增加闪烁崇心的擦弹伤害加成
 				提升幽灵永恒群冠的出现频率和攻击力
 				按下“炸弹”键时施放一圈幻影眼球，摧毁大多数敌对弹幕
-				突变炸弹有60秒的冷却时间
+				凸定炸弹有60秒的冷却时间
 				“有点可疑”
 				'''
 			MysticSkull:
@@ -3565,12 +3565,12 @@ Mods: {
 			'''
 			MutantsCreditCard:
 			'''
-			永久将突变体的商店价格降低30%
+			永久将凸定体的商店价格降低30%
 			“等下，你怎么拿到这个东西的？”
 			'''
 			MutantsDiscountCard:
 			'''
-			永久将突变体的商店价格降低20%
+			永久将凸定体的商店价格降低20%
 			“它不是照你想的那么用的”
 			'''
 			MutantsPact:
@@ -3673,7 +3673,7 @@ Mods: {
 			'''
 			MutantsFury:
 			'''
-			“真 正 激怒突变体...也许并不”
+			“真 正 激怒凸定体...也许并不”
 			'''
 			UniversalCollapse:
 			'''
@@ -3715,7 +3715,7 @@ Mods: {
 			'''
 			SpawnSack:
 			'''
-			召唤突变体的卵
+			召唤凸定体的卵
 			“你以为你安全了？”
 			'''
 

@@ -338,7 +338,7 @@ Mods: {
 			LumberJack: 伐木工
 			Mechanic: 机械师
 			Merchant: 商人
-			Mutant: 突变体
+			Mutant: 凸定体
 			Nurse: 护士
 			Painter: 油漆工
 			PartyGirl: 派对女孩
@@ -459,7 +459,7 @@ Mods: {
 			FleshyDoll: 血肉娃娃
 			JellyCrystal: 胶状水晶
 			MechanicalAmalgam: 机械融合体
-			MutantVoodoo: 突变体巫毒娃娃
+			MutantVoodoo: 凸定体巫毒娃娃
 			PlanterasFruit: 世纪之果
 			PrismaticPrimrose: 棱晶玫瑰
 			SuspiciousSkull: 可疑头骨
@@ -566,9 +566,9 @@ Mods: {
 			LumberjackBody: 伐木工身体
 			LumberjackMask: 伐木工面具
 			LumberjackPants: 伐木工裤
-			MutantBody: 突变躯体
-			MutantMask: 突变面具
-			MutantPants: 突变裤
+			MutantBody: 凸定躯体
+			MutantMask: 凸定面具
+			MutantPants: 凸定裤
 
 			LumberJaxe: 伐木斧
 		}
@@ -1239,7 +1239,7 @@ Mods: {
 				'''
 			SiblingPylon: 
 				'''
-				当附近有突变体，永恒群冠和戴薇安时可以传送至另一个晶塔
+				当附近有凸定体，永恒群冠和戴薇安时可以传送至另一个晶塔
 				只能放置一个
 				'''
 			UnsafeBlueSlabWall: 允许区域特有的敌怪生成
@@ -1309,7 +1309,7 @@ Mods: {
 			Abominationn: 永恒群冠
 			Deviantt: 戴薇安
 			LumberJack: 伐木工
-			Mutant: 突变体
+			Mutant: 凸定体
 			Squirrel: 高帽松鼠
 			SuperDummy: 超级假人
 		}
@@ -1572,7 +1572,7 @@ Mods: {
 				11: 你花的所有金币我其实用不完。
 				12: 以暴制暴是野兽的法则。
 				13: 那些家伙真的需要变得更有创意。他们所有的第一个Boss都是沙漠主题！
-				14: 你说你想知道突变体和永恒群冠是怎样的兄弟关系？你最好别问。
+				14: 你说你想知道凸定体和永恒群冠是怎样的兄弟关系？你最好别问。
 				15: 我是你在灾难中所需要的一切。
 				16: 我将拥有整个世界！……在你购买我东西之后。
 				17: 很明显我是在帮助你，但是呃……这对我有什么好处？你认为是房子？我早餐吃僵尸。
